@@ -2,7 +2,5 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
-
-Hello Sam, this is your test. 
-Test 2
+##Website Content
+1. Index
